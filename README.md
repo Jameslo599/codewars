@@ -9,4 +9,4 @@ Tech used: Javascript
 Methodology involves creating a new file and pushing the solution onto Github
 
 Lessons Learned:
-Codewars has been paramount to improving my ability to solve complex problems while also learning the 'optimal' solution after completing the challenge. Knowing all the different methods of solving the same problem broadens my perspective and helps me learn what is possible.
+Codewars has been paramount to improving my ability to solve complex problems while also learning the 'optimal' solution after completing the challenge. Knowing all the different methods of solving the same problem broadens my perspective and helps me learn what is possible. 
