@@ -1,12 +1,22 @@
-Daily Codewars Challenges
-I upload a Codewars Challenge every day to gradually improve my problem-solving ability.
+# My Awesome Project
+My Codewars journey towards improving my JavaScript and problem-solving skills!
 
-Here is a link to my Codewars profile: https://www.codewars.com/users/Jameslo599
+**Link to project:** https://www.codewars.com/users/Jameslo599
 
-How it's Made:
-Tech used: Javascript
+![codewars profile](/codewars.png)
 
-Methodology involves creating a new file and pushing the solution onto Github
+## How It's Made:
 
-Lessons Learned:
-Codewars has been paramount to improving my ability to solve complex problems while also learning the 'optimal' solution after completing the challenge. Knowing all the different methods of solving the same problem broadens my perspective and helps me learn what is possible. 
+**Tech used:** JavaScript
+
+Codewars has challenged for many languages, but I'm using it for JavaScript.
+
+## Optimizations
+Only improvement here is to getting to a higher kata level!
+
+## Lessons Learned:
+
+I highly recommend Codewars as an invaluable resource for developers. Unlike Anki, it focuses more on problem-solving rather than memorization. Regardless of your experience level, Codewars offers challenges that promote continuous learning, reflecting the true essence of being an engineer. Personally, by practicing Codewars daily, I have gained immense confidence in utilizing various methods for manipulating strings, arrays, and objects. I intend to continue this routine as I advance in my engineering career with unwavering determination and zeal.
+
+## Examples:
+Please take a look at the many challenges I've solved!
