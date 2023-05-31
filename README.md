@@ -9,10 +9,10 @@ My Codewars journey towards improving my JavaScript and problem-solving skills!
 
 **Tech used:** JavaScript
 
-Codewars has challenged for many languages, but I'm using it for JavaScript.
+Codewars has challenges for many languages, but I'm using it for JavaScript.
 
 ## Optimizations
-Only improvement here is to getting to a higher kata level!
+Only improvement here is to getting to a higher kata level and optimizing my code!
 
 ## Lessons Learned:
 
