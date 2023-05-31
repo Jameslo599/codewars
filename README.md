@@ -3,7 +3,7 @@ My Codewars journey towards improving my JavaScript and problem-solving skills!
 
 **Link to project:** https://www.codewars.com/users/Jameslo599
 
-![codewars profile](/codewars.png)
+![codewars profile](/images/codewars.png)
 
 ## How It's Made:
 
