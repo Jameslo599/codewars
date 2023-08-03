@@ -10,4 +10,4 @@ const nouveau = (Constructor, ...arg) => {
 };
 
 // Easiest Solution
-// let instance = Reflect.construct(Constructor, arg);
+// const instance = Reflect.construct(Constructor, arg);
