@@ -41,7 +41,6 @@ function sieve(limit) {
 function simplify(arr, n, value, result) {
   if (arr.includes(value)) {
     result.push(value);
-
     return;
   } else if (value > 0) {
     for (let j = 0; j < arr.length; j++) {
