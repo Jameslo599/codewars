@@ -25,3 +25,5 @@ var Cat = (function () {
   CatConstructor.averageWeight = averageWeight;
   return CatConstructor;
 })();
+
+
